@@ -17,5 +17,8 @@
     "prettier-plugin-svelte": "^2.2.0",
     "svelte": "3.40.1"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "sk-auth": "^0.3.7"
+  }
 }
