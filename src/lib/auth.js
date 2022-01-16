@@ -1,7 +1,7 @@
 import { SvelteKitAuth, Providers } from 'sk-auth';
 
 // this is the domain we set up in our Cognito Pool
-const DOMAIN = 'sveltekit.auth.eu-west-1.amazoncognito.com';
+const DOMAIN = 'sveltekit-rob.auth.eu-west-1.amazoncognito.com';
 
 // these are the configuration seetings for our OAUTH2 provider
 const config = {
