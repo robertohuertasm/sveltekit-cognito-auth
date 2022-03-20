@@ -8,3 +8,4 @@ accepted = ["MIT", "MSC", "BSD-2-Clause", "BSD-3-Clause", "Apache-2.0", "Apache 
 	@@ -18,6 +18,3 @@ run_only_on_dependency_modification = false
 # False by default, if true, it will never block the build.
 do_not_block_pr = false
+
